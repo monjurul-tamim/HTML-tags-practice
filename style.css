@@ -1,0 +1,17 @@
+.new{
+	border: 7px outset green;
+	background-color: coral;
+	text-align: center;
+}
+hr{
+	border: 2px solid green;
+
+}
+h1{
+	text-align: center;
+	color: coral;
+}
+.tm{
+	color: black;
+	text-align: left;
+}
